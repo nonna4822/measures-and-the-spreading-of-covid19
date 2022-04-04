@@ -1,4 +1,8 @@
 # The Relations Between Implementation Date of Policies and The Spreading of COVID-19
+
+W. Sirinaovakul, T. Eiamyingsakul, N. Tubtimtoe, S. Prom-on and U. Taetragool, "The Relations Between Implementation Date of Policies and The Spreading of COVID-19," 2020 1st International Conference on Big Data Analytics and Practices (IBDAP), 2020, pp. 1-6, doi: 10.1109/IBDAP50342.2020.9245459.
+https://ieeexplore.ieee.org/document/9245459
+
 ## Authors
 - Watcharin Sirinaovakul
 - Thanason Eiamyingsakul
